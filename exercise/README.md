@@ -1,4 +1,4 @@
-# Intro to Reac Lab - Exercise
+# Intro to React Lab - Exercise
 
 ## Overview
 
@@ -135,7 +135,6 @@ export default App;
 }
 ```
 
-## Main Objective
 
 Build as many simple applications as you can, practicing the core concepts of JavaScript in JSX, conditional rendering, and looping in JSX. Focus on creating a functional and visually appealing app for each idea you choose.
 
