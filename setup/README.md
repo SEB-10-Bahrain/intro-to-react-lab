@@ -14,7 +14,7 @@ Create a new Vite project for your React app:
 npm create vite@latest
 ```
 
-You'll be prompted to choose a project name. Let's name it `react-mini-apps-lab`. 
+You'll be prompted to choose a project name. Let's name it `<react-mini-app-name>`. 
 
 - Select a framework. Use the arrow keys to choose the `React` option and hit `Enter`.
 
@@ -23,7 +23,7 @@ You'll be prompted to choose a project name. Let's name it `react-mini-apps-lab`
 Navigate to your new project directory and install the necessary dependencies:
 
 ```bash
-cd react-mini-apps-lab
+cd <react-mini-app-name>
 npm i
 ```
 
