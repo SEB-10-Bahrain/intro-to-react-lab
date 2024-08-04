@@ -79,7 +79,7 @@ Make a new repository on [GitHub](https://github.com/) named react-mini-apps-lab
 Link your local project to your remote GitHub repo:
 
 ```bash
-git remote add origin https://github.com/<github-username>/<react-mini-app>.git
+git remote add origin https://github.com/<github-username>/<react-mini-app-name>.git
 git push origin main
 ```
 
