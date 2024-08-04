@@ -1,4 +1,4 @@
-# React Components Lab - Exercise
+# Intro to Reac Lab - Exercise
 
 ## Overview
 
