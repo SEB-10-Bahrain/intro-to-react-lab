@@ -55,7 +55,7 @@ CSS Modules allow you to scope CSS to the component, avoiding naming conflicts. 
 ```jsx
 import styles from './Button.css';
 
-const Button = () => {
+const App = () => {
   return <button className={styles.button}>Click Me</button>;
 };
 ```
