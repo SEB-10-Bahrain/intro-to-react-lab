@@ -37,10 +37,10 @@ CSS Modules allow you to scope CSS to the component, avoiding naming conflicts. 
 
 **Example:**
 
-1. Create a `Button.module.css` file:
+1. Create a `Button.css` file:
 
 ```css
-/* Button.module.css */
+/* Button.css */
 .button {
   background-color: blue;
   color: white;
@@ -53,7 +53,7 @@ CSS Modules allow you to scope CSS to the component, avoiding naming conflicts. 
 2. Import and use the CSS module in your component:
 
 ```jsx
-import styles from './Button.module.css';
+import styles from './Button.css';
 
 const Button = () => {
   return <button className={styles.button}>Click Me</button>;
