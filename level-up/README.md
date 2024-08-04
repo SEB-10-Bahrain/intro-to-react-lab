@@ -66,7 +66,7 @@ Global CSS is applied across the entire application and is useful for shared sty
 
 **Example:**
 
-1. Create an `App.css` file:
+1. You already have an `App.css` file created for you by Vite:
 
 ```css
 /* App.css */
